@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm @shibashish97
 
 ## 👀 Interests
-I’m passionate about **Data Science** 📊 and the **Share Market** 📈. 
+I’m passionate about **Artifitial Intelligence** 📊. 
 
 ## 🌱 Current Learning
 I’m currently diving deep into both of these fields to expand my knowledge and skills.
