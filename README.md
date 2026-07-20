@@ -1,27 +1,40 @@
-# 👋 Hi there! I'm @shibashish97
+# Shibashish Nayak
 
-## 👀 Interests
-I’m passionate about **Artifitial Intelligence** 📊. 
+**RAG & Agentic AI Engineer** — building document intelligence and agentic
+automation systems for businesses drowning in unstructured data.
 
-## 🌱 Current Learning
-I’m currently diving deep into both of these fields to expand my knowledge and skills.
+7+ years in AI/ML, currently focused on LLM pipelines, Retrieval-Augmented
+Generation, and agentic workflows on GCP/Vertex AI.
 
-## 💼 Experience
-- **Generative AI** 🤖
-- **Large Language Models (LLMs)** 🗣️
-- **DevOps** ⚙️
-- **GitHub Actions** 🔄
-- **MLOps Tools** 🛠️
+## What I build
 
-## 💞 Collaboration
-I’m looking to collaborate on projects related to the **Share Market**. Let's connect and innovate together!
+- **RAG systems** — retrieval pipelines grounded in a client's own documents,
+  with source-cited answers instead of hallucinations
+- **Agentic workflows** — multi-step automation with LangGraph (extract →
+  validate → route → notify), not just single-turn chatbots
+- **Document intelligence pipelines** — OCR + structured extraction from
+  PDFs and scanned forms (YOLOv7, Tesseract, PyMuPDF)
 
-## 📫 How to Reach Me
-Feel free to drop me a message at: [shibashishnayak97@gmail.com](mailto:shibashishnayak97@gmail.com)
+## Stack
 
----
+`LangChain` `LangGraph` `Vertex AI` `Gemini` `FastAPI` `FAISS` `Pinecone`
+`Docker` `MLflow` `DVC` `XGBoost`
 
-<!---
-shibashish97/shibashish97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Featured project
+
+**[RAG Document Intelligence API](https://github.com/shibashish97/rag-doc-intelligence)**
+— Upload PDFs, ask questions, get answers grounded in the document content
+with page-level citations. Provider-agnostic (OpenAI/Gemini swap via config).
+[Read the architecture writeup →](https://github.com/shibashish97/rag-doc-intelligence#readme)
+
+## Currently
+
+Open to freelance projects and POCs in RAG, document intelligence, and
+agentic AI — especially short scoped engagements where I can show results
+fast.
+
+## Reach me
+
+- 📫 shibashishnayak97@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/shibashish-nayak-404788135/)
+- 🐦 [@ShibashishN](https://twitter.com/ShibashishN)
