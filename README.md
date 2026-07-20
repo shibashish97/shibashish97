@@ -22,10 +22,9 @@ Generation, and agentic workflows on GCP/Vertex AI.
 
 ## Featured project
 
-**[RAG Document Intelligence API](https://github.com/shibashish97/rag-doc-intelligence)**
+**[RAG Document Intelligence API](https://github.com/shibashish97/vertex-rag-api)**
 — Upload PDFs, ask questions, get answers grounded in the document content
 with page-level citations. Provider-agnostic (OpenAI/Gemini swap via config).
-[Read the architecture writeup →](https://github.com/shibashish97/rag-doc-intelligence#readme)
 
 ## Currently
 
